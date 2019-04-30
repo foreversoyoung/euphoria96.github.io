@@ -11,3 +11,5 @@ image:
   teaser:
   thumb:
 ---
+
+getting more familiar with Jekyll!
